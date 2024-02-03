@@ -2,7 +2,7 @@
 ![HEADER BACKGOUND](./assets/images/header__bg.jpeg)
 
 | FRONTEND | SERVICES | BACKEND |TOOLS|
-| :---: | :---: | :---: |
+| :---: | :---: | :---: |:---: |
 |<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|<img src="https://skillicons.dev/icons?i=postman&perline=20"/>|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java&perline=20" />|<img src="https://skillicons.dev/icons?i=vscode,git,github,sequelize,linux&perline=20" />|
 
 
