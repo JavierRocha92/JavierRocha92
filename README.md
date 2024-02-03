@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy Javier, un Fullstack Developer con gusto por el diseño web y un enfoque más profundo en el lado del servidor. Disfruto trabajando en el procesamiento de información y bases de datos para crear soluciones robustas y eficientes.
 ## Skills and Tools 💻
 <div display="flex">
 <img src="https://skillicons.dev/icons?i=python,php,mysql,sequelize,postman,html,css,bootstrap,js,nodejs,react,java,vscode,eclipse,git,github&perline=20" />
