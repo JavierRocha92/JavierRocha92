@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Skills and Tools 💻
 <div display="flex">
-<img src="https://skillicons.dev/icons?i=python,php,sql,pl/sql,html,css,bootstrap,js,nodejs,react,java,vscode,git,github&perline=20" />
+<img src="https://skillicons.dev/icons?i=python,php,mysql,sequelize,postman,html,css,bootstrap,js,nodejs,react,java,vscode,eclipse,git,github&perline=20" />
 </div>
 
 <!--
