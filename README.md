@@ -3,7 +3,7 @@
 
 | FRONTEND | SERVICES | BACKEND |
 | :---: | :---: | :---: |
-|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|<img src="https://skillicons.dev/icons?i=postman,insomnia&perline=20"/>|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java&perline=20" />|
+|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|<img src="https://skillicons.dev/icons?i=postman&perline=20"/>|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java&perline=20" />|<img src="https://skillicons.dev/icons?i=vscode,git,github,sequelize,linux&perline=20" />|
 
 
 
