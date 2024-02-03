@@ -1,7 +1,7 @@
 ### Soy Javier, un Fullstack Developer con gusto por el diseño web y un enfoque más profundo en el lado del servidor. Disfruto trabajando en el procesamiento de información y bases de datos para crear soluciones robustas y eficientes.
 ![HEADER BACKGOUND](./assets/images/header__bg.jpeg)
 
-| FRONTEND | SERVICES | BACKEND |
+| FRONTEND | SERVICES | BACKEND |TOOLS|
 | :---: | :---: | :---: |
 |<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|<img src="https://skillicons.dev/icons?i=postman&perline=20"/>|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java&perline=20" />|<img src="https://skillicons.dev/icons?i=vscode,git,github,sequelize,linux&perline=20" />|
 
