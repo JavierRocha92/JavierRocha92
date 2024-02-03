@@ -1,4 +1,8 @@
 ### Hi there 👋
+## Skills and Tools 💻
+<div display="flex">
+<img src="https://skillicons.dev/icons?i=python,php,sql,pl/sql,html,css,bootstrap,js,nodejs,react,java,vscode,git,github&perline=20" />
+</div>
 
 <!--
 **JavierRocha92/JavierRocha92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
