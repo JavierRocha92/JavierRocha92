@@ -3,9 +3,7 @@
 
 | FRONTEND | SERVICES | BACKEND |
 | :---: | :---: | :---: |
-|<div display="flex">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />
-</div>|
+|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|
 
 <!--
 **JavierRocha92/JavierRocha92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
