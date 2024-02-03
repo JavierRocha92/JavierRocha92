@@ -3,9 +3,9 @@
 
 | FRONTEND | SERVICES | BACKEND |
 | :---: | :---: | :---: |
-|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|
-|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|
-|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java,react&perline=20" />|
+|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20" />|<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&perline=20"/>|<img src="https://skillicons.dev/icons?i=py,php,nodejs,java&perline=20" />|
+
+
 
 
 <!--
